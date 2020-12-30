@@ -6,9 +6,9 @@ var engine, world;
  
 function preload()
 {
-   background_img = loadImage("images/background.png");
-   boy_img = loadImage("images/boy.png")
-   tree_img = loadImage("images/tree.png")
+   background_img = loadImage("background.png");
+   boy_img = loadImage("boy.png")
+   tree_img = loadImage("tree.png")
 }
 
 function setup() {
