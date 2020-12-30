@@ -14,7 +14,7 @@ class Mango
       this.y = y;
       this.w = w;
       this.h = h;
-      this.image = loadImage("images/mango.png");
+      this.image = loadImage("mango.png");
       World.add(world, this.body);
    }
 
